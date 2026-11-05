@@ -1,0 +1,10 @@
+{
+	"id": "better-images",
+	"name": "Better Images",
+	"version": "1.0.0",
+	"minAppVersion": "1.13.0",
+	"description": "Sort images you paste onto a canvas into a folder next to it, and move images to the trash once no canvas or note uses them anymore.",
+	"author": "Marvin Krullmann",
+	"authorUrl": "https://github.com/krullmensch",
+	"isDesktopOnly": false
+}
